@@ -15,7 +15,6 @@ OS Type: Linux
 Tools: Azure CLI, VS Code, GitHub
 
 🧩 Project Structure
-Day-20/
 │
 ├── create-function.sh           # Azure CLI script to create all resources
 ├── README.md                    # Documentation (this file)
@@ -27,15 +26,18 @@ To understand and automate the deployment of a serverless Python Function App on
 no manual portal configuration needed.
 
 📊 Learning Outcomes
+
 ✔ Automated end-to-end deployment using CLI
 ✔ Understood Azure Function App dependencies
 ✔ Used random identifiers for unique global naming
 ✔ Practiced infrastructure provisioning via script
 
 📚 Useful References
+
 Azure Functions Overview
 Azure CLI Documentation
 Deploy a Function App with CLI
 
 🏷️ Tags
 #AzureFunctions #Serverless #Python #CloudAutomation #AzureCLI
+
